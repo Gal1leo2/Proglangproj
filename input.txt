@@ -1,0 +1,22 @@
+A + B
+-
+*
+if
+then
+id1
+id2
+id1
+"Hello World"
+/* This is a block comment */
+// This is a line comment
+x = 10
+y >= 20
+counter++
+while
+do
+print
+"Programming Languages"
+endwhile
+(a)
+;
+invalid@character
