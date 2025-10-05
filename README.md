@@ -260,21 +260,21 @@ javac -version
 
 ### เนื้อหาที่ต้องมีในวิดีโอ:
 
-1. **แนะนำสมาชิก** (1 นาที)
+1. **แนะนำสมาชิก** 
    - แนะนำตัวสมาชิกทุกคนในกลุ่ม
 
 
-2. **อธิบาย Lex.flex** (5-7 นาที)
+2. **อธิบาย Lex.flex** 
    - อธิบาย **ทุกบรรทัด** ใน .flex file
    - อธิบาย regular expressions ที่ใช้
    - อธิบาย Symbol Table implementation
    - อธิบาย Error handling
 
-3. **อธิบายโค้ด Lex.java** (3-5 นาที)
+3. **อธิบายโค้ด Lex.java** 
    - อธิบายโค้ดที่ JFlex generate ให้
    - อธิบายการทำงานของ lexer
 
-4. **Demo การทำงาน** (3-5 นาที)
+4. **Demo การทำงาน** 
    - รันโปรแกรมกับ test cases หลายแบบ
    - แสดงทุก token types
    - แสดง symbol table functionality
