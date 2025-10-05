@@ -293,6 +293,8 @@ javac -version
 
 **รันได้ก็รัน รันไม่ได้ก็อธิบายแค่ในโค้ด Lexer.flex พอ เดี่ยวตอนตัดต่อค่อยตัดจากคอมกูไปก็ได้**
 
+เมื่ออัดคลิปเสร็จแล้ว ไปส่งในนี้ เดี่ยวหาคนตัดต่อ
+https://drive.google.com/drive/folders/1qhWcYbWZDCINnr0kX0Xthk5LTLTD9TST?usp=sharing
 ---
 
 ## เอกสารอ้างอิง
