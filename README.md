@@ -173,7 +173,7 @@ error: invalid character '@' at line 14, column 7
 
 ---
 
-## 🔧 คำสั่งแบบรวม (Copy-Paste ได้เลย)
+## คำสั่งแบบรวม (Copy-Paste ได้เลย)
 
 ### **สำหรับ Windows (Command Prompt):**
 ```cmd
@@ -201,7 +201,7 @@ java lexer.Lex input.txt
 
 ---
 
-## 🆘 การแก้ไขปัญหาที่พบบ่อย
+## ปัญหา
 
 ### ❌ ปัญหา: "java: command not found"
 **สาเหตุ:** Java ยังไม่ได้ติดตั้งหรือไม่อยู่ใน PATH
